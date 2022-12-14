@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student with a passion for the subject. <br>I have the ability to learn languages, frameworks, and platforms quickly. <br>My goal is to enter the software engineering profession with an established company.
+As a computer science student, I have always had a passion for the subject. I have the ability to learn languages, frameworks, and platforms quickly, which has allowed me to stay ahead of the curve in the ever-changing world of technology. My goal is to enter the software engineering profession with an established company, where I can use my skills to help create innovative solutions to the world's most pressing problems. I am passionate about using my knowledge to create meaningful and impactful products that can help make the world a better place. I am confident that my skills and experience will be an asset to any organization I join.
 
 
 ## 🌐 Socials:
