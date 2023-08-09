@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="header.jpg" alt="Deshaun Breeden" width="800" height="400">
-</p>
-
 <h1 align="center">Hi there, I'm Deshaun Breeden 👋</h1>
 <h3 align="center">Computer Science Student | Java, HTML, CSS, JavaScript, Bootstrap, React Enthusiast</h3>
 
@@ -43,5 +39,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Deshaun's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeshaunBreeden&show_icons=true&theme=radical" alt="Deshaun's GitHub Stats">
 </p>
